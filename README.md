@@ -1,10 +1,10 @@
 <p align="center">
-	<img alt="Aprendiendo COBOL" src="https://raw.githubusercontent.com/daviddefitero/aprendiendo-cobol/refs/heads/main/media/banner.png">
+	<img alt="Aprendiendo COBOL" src="media/banner.png">
 	<h1 align="center">Aprendiendo COBOL</h1>
 </p>
 
 <p align="center">
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/daviddefitero/aprendiendo-cobol">
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dde-fite/aprendiendo-cobol">
 	<a href="https://www.linkedin.com/in/david-de-fitero"><img alt="Static Badge" src="https://img.shields.io/badge/aprende_m%C3%A1s-en_linkedin-blue?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdavid-de-fitero%2F"></a>
 </p>
 
@@ -134,4 +134,4 @@ $ python test.py
 
 ## Tienes sugerencias?
 
-En caso de cualquier error que haya cometido o alguna nueva idea para mejorar este repositorio, siéntete libre de abrir un Issue o Pull Request, o contactarme a mi correo electrónico: [david@defitero.com](mailto:david@defitero.com)
+En caso de cualquier error que haya cometido o alguna nueva idea para mejorar este repositorio, siéntete libre de abrir un Issue o Pull Request, o contactarme a mi correo electrónico: [nora@defitero.com](mailto:nora@defitero.com)
